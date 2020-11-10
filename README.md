@@ -1,2 +1,2 @@
 # ports
-Collection of custom FreeBSD ports (WIP).
+Collection of custom FreeBSD ports.
